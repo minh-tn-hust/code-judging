@@ -26,6 +26,7 @@ A robust, scalable code judging platform inspired by LeetCode. This platform ena
 - **Containerization**: Docker, Docker Compose
 
 ### Key Components
+![image](https://github.com/user-attachments/assets/0bf59a10-48d2-4d5f-b894-9f629f8253a9)
 
 1. **User Service**: Manages user data, authentication, and authorization.
 2. **Problem Service**: Manages problem sets, including CRUD operations for admins.
