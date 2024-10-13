@@ -37,5 +37,9 @@ A robust, scalable code judging platform inspired by LeetCode. This platform ena
 #### How Execution Service Works?
 ![image](https://github.com/user-attachments/assets/b324c379-ef1f-4f5c-baa6-79dd5120b0ec)
 
+#### Performance
+- Scalability: Designed to handle up to 50 concurrent users with minimal performance degradation.
+- Response Time: Average response time of 27 seconds during peak usage with a 5-core CPU and 12 GB of RAM.
+
 
 
