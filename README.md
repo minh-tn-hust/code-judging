@@ -26,10 +26,16 @@ A robust, scalable code judging platform inspired by LeetCode. This platform ena
 - **Containerization**: Docker, Docker Compose
 
 ### Key Components
-![image](https://github.com/user-attachments/assets/0bf59a10-48d2-4d5f-b894-9f629f8253a9)
+![image](https://github.com/user-attachments/assets/9b2acfad-3080-4dc9-9afa-84632f75cd50)
+
 
 1. **User Service**: Manages user data, authentication, and authorization.
 2. **Problem Service**: Manages problem sets, including CRUD operations for admins.
 3. **Execution Service**: Runs code in isolated Docker containers to ensure a secure execution environment.
 4. **API Gateway**: Kong Gateway handles API requests and authentication across all services.
+
+#### How Execution Service Works?
+![image](https://github.com/user-attachments/assets/b324c379-ef1f-4f5c-baa6-79dd5120b0ec)
+
+
 
